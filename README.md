@@ -1,7 +1,15 @@
 # website_3d
 
-Experimenting with 3d website deployment.
-To serve app on ```http://localhost:3000/``` :
+- Experimenting with 3d website deployment.
+
+## Instructions to clone and test
+
+### Node.js and npm are required to run this project. If not installed on your OS or VM, you will need to install them.
+- Versions I used for this project:
+    - Node.js - v11.15.0
+    - npm = 6.4.1
+
+- To serve app on ```http://localhost:3000/``` :
 ```
 git clone <this-repo>
 sudo npm install
