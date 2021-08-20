@@ -5,7 +5,7 @@
 ## Demo of Project
 ![Gif demo of 3D website](./website3dgif.gif)
 
-## Instructions to clone and test
+## Instructions to clone and test it out
 
 ### Node.js and npm are required to run this project. If not installed on your OS or VM, you will need to install them.
 - Versions I used for this project:
