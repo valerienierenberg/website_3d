@@ -2,7 +2,7 @@
 
 - Experimenting with 3d website deployment.
 
-## Gif Demo of Project
+## Demo of Project
 ![Gif demo of 3D website](./website3dgif.gif)
 
 ## Instructions to clone and test
