@@ -1,6 +1,6 @@
 # website_3d
 
-- Experimenting with 3d website deployment.
+- Experimenting with 3d website design, development, and deployment.
 
 ## Demo of Project
 ![Gif demo of 3D website](./website3dgif.gif)
